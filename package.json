@@ -1,4 +1,9 @@
 {
+  "name": "pavard-meilleur-buteur",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node pavard.js"
+  },
   "dependencies": {
     "axios": "^0.18.0"
   }
